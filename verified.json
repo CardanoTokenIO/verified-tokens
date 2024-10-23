@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "a0952ab1263e0886933495ff7ec7719bfaab3b057c0a55891db113ff434f4645": {
+    "token_id": "a0952ab1263e0886933495ff7ec7719bfaab3b057c0a55891db113ff434f4645",
+    "token_policy": "a0952ab1263e0886933495ff7ec7719bfaab3b057c0a55891db113ff",
+    "token_ascii": "COFE",
+    "is_verified": true,
+    "decimals": 0,
+    "ticker": "COFE"
   }
 }
