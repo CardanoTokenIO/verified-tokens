@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "8710d7e46ffb678803a2072d6c838fb564a249362dd671729e9d83624d414741494e55": {
+    "token_id": "8710d7e46ffb678803a2072d6c838fb564a249362dd671729e9d83624d414741494e55",
+    "token_policy": "8710d7e46ffb678803a2072d6c838fb564a249362dd671729e9d8362",
+    "token_ascii": "MAGA INU",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MAGA"
   }
 }
