@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "d93766a1d3134c8ba871cc21963dfdff0d491655ed357f13423c9a0c4d4f534b59": {
+    "token_id": "d93766a1d3134c8ba871cc21963dfdff0d491655ed357f13423c9a0c4d4f534b59",
+    "token_policy": "d93766a1d3134c8ba871cc21963dfdff0d491655ed357f13423c9a0c",
+    "token_ascii": "MOSKY",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MOSKY"
   }
 }
