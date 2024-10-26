@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "0ca67b55e34e96383d8f6846e4ea9416d6ec9195736e697a0f28985046524f535459": {
+    "token_id": "0ca67b55e34e96383d8f6846e4ea9416d6ec9195736e697a0f28985046524f535459",
+    "token_policy": "0ca67b55e34e96383d8f6846e4ea9416d6ec9195736e697a0f289850",
+    "token_ascii": "FROSTY",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FROSTY"
   }
 }
