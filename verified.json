@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "4e98b9e8d5ec47ddeebc9334cc62814d12b5dc19788e169672de58114c49444f": {
+    "token_id": "4e98b9e8d5ec47ddeebc9334cc62814d12b5dc19788e169672de58114c49444f",
+    "token_policy": "4e98b9e8d5ec47ddeebc9334cc62814d12b5dc19788e169672de5811",
+    "token_ascii": "LIDO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "LIDO"
   }
 }
