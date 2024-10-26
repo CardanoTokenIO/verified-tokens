@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "0279cc462de695149b4b70cdbc7e51d8029703569de56551e3e8e1a64b6c617573": {
+    "token_id": "0279cc462de695149b4b70cdbc7e51d8029703569de56551e3e8e1a64b6c617573",
+    "token_policy": "0279cc462de695149b4b70cdbc7e51d8029703569de56551e3e8e1a6",
+    "token_ascii": "Klaus",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Klaus"
   }
 }
