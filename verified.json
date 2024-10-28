@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "4b4d39d5d98c871c2a0b0c043fdc486f0c233f9906efdd74f00512285343414d414c41": {
+    "token_id": "4b4d39d5d98c871c2a0b0c043fdc486f0c233f9906efdd74f00512285343414d414c41",
+    "token_policy": "4b4d39d5d98c871c2a0b0c043fdc486f0c233f9906efdd74f0051228",
+    "token_ascii": "SCAMALA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SCAMALA"
   }
 }
