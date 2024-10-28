@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "ce25b6c00439726607c51ccfb53197d0576b2b9579013120a1d7cd3344616e7a6f4e465473": {
+    "token_id": "ce25b6c00439726607c51ccfb53197d0576b2b9579013120a1d7cd3344616e7a6f4e465473",
+    "token_policy": "ce25b6c00439726607c51ccfb53197d0576b2b9579013120a1d7cd33",
+    "token_ascii": "DanzoNFTs",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DNFT"
   }
 }
