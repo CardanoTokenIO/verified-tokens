@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3534e454b5452554d50": {
+    "token_id": "52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3534e454b5452554d50",
+    "token_policy": "52c1ded375e7ed7c460bce27874fd3fa95a18426849bfb5e537a31f3",
+    "token_ascii": "SNEKTRUMP",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "STRUMP"
   }
 }
