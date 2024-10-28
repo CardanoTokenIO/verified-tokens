@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "93da1e7af49186636d78f980fd368bda60c25cecca5f29c476d2b690486f7573654f664e696e6a6173": {
+    "token_id": "93da1e7af49186636d78f980fd368bda60c25cecca5f29c476d2b690486f7573654f664e696e6a6173",
+    "token_policy": "93da1e7af49186636d78f980fd368bda60c25cecca5f29c476d2b690",
+    "token_ascii": "HouseOfNinjas",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "HON"
   }
 }
