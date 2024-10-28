@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "af464e03b7e8d548420a6cdd0ae91787e90553ca23fbf873d2626acd4772616e5a6f": {
+    "token_id": "af464e03b7e8d548420a6cdd0ae91787e90553ca23fbf873d2626acd4772616e5a6f",
+    "token_policy": "af464e03b7e8d548420a6cdd0ae91787e90553ca23fbf873d2626acd",
+    "token_ascii": "GranZo",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "GranZo"
   }
 }
