@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "b65ed388c9aefdd37ddd274f2d7623864816b027d3512db95238a52e4241425944414e5a4f": {
+    "token_id": "b65ed388c9aefdd37ddd274f2d7623864816b027d3512db95238a52e4241425944414e5a4f",
+    "token_policy": "b65ed388c9aefdd37ddd274f2d7623864816b027d3512db95238a52e",
+    "token_ascii": "BABYDANZO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BABYDANZO"
   }
 }
