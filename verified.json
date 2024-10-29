@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "f9ef757bb3ff016cfdcc9e74bd583d2435410bf6ca79c2726146aadb62756c6c": {
+    "token_id": "f9ef757bb3ff016cfdcc9e74bd583d2435410bf6ca79c2726146aadb62756c6c",
+    "token_policy": "f9ef757bb3ff016cfdcc9e74bd583d2435410bf6ca79c2726146aadb",
+    "token_ascii": "bull",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "bull"
   }
 }
