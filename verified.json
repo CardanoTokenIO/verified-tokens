@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "4e2e49232e7c104df138e6caf104591d31c0de2824f2ff096f8d0eac536e72696d70": {
+    "token_id": "4e2e49232e7c104df138e6caf104591d31c0de2824f2ff096f8d0eac536e72696d70",
+    "token_policy": "4e2e49232e7c104df138e6caf104591d31c0de2824f2ff096f8d0eac",
+    "token_ascii": "Snrimp",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Snrimp"
   }
 }
