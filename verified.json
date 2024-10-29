@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "7a93532e49e7a92deee4bc89f0d6bbb1d3515747d82548bcf44f3909454c4f4e444f4745": {
+    "token_id": "7a93532e49e7a92deee4bc89f0d6bbb1d3515747d82548bcf44f3909454c4f4e444f4745",
+    "token_policy": "7a93532e49e7a92deee4bc89f0d6bbb1d3515747d82548bcf44f3909",
+    "token_ascii": "ELONDOGE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "ELONDOGE"
   }
 }
