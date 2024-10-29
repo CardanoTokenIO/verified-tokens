@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "b123ee9d051a38faad4952b7afa3bea5318e1fb5de4554a64caab12a44414e5a4f4841434b4552": {
+    "token_id": "b123ee9d051a38faad4952b7afa3bea5318e1fb5de4554a64caab12a44414e5a4f4841434b4552",
+    "token_policy": "b123ee9d051a38faad4952b7afa3bea5318e1fb5de4554a64caab12a",
+    "token_ascii": "DANZOHACKER",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "DHACKER"
   }
 }
