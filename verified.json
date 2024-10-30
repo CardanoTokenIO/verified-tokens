@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "8c630616d1f43a6cbe438a7045c6c9d6a870805f509113dfaed6ed95434154544845434154": {
+    "token_id": "8c630616d1f43a6cbe438a7045c6c9d6a870805f509113dfaed6ed95434154544845434154",
+    "token_policy": "8c630616d1f43a6cbe438a7045c6c9d6a870805f509113dfaed6ed95",
+    "token_ascii": "CATTHECAT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CTC"
   }
 }
