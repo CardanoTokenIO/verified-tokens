@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "328906d8bc454c37b8e26dbb9ff6f22f3c4ac4137125c498a4b498ae504f50534e454b": {
+    "token_id": "328906d8bc454c37b8e26dbb9ff6f22f3c4ac4137125c498a4b498ae504f50534e454b",
+    "token_policy": "328906d8bc454c37b8e26dbb9ff6f22f3c4ac4137125c498a4b498ae",
+    "token_ascii": "POPSNEK",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "POPSNEK"
   }
 }
