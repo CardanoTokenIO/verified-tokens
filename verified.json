@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "9cbba7e03f8ba142a860dde40456e811b01a66c1d04d2c841a9f92fc57616c646f": {
+    "token_id": "9cbba7e03f8ba142a860dde40456e811b01a66c1d04d2c841a9f92fc57616c646f",
+    "token_policy": "9cbba7e03f8ba142a860dde40456e811b01a66c1d04d2c841a9f92fc",
+    "token_ascii": "Waldo",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "Waldo"
   }
 }
