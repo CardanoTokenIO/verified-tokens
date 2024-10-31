@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "943b6a0a7903a5f1ae1f177b459e6d8619d0956f71c1daa33aff84bd424f5a4f": {
+    "token_id": "943b6a0a7903a5f1ae1f177b459e6d8619d0956f71c1daa33aff84bd424f5a4f",
+    "token_policy": "943b6a0a7903a5f1ae1f177b459e6d8619d0956f71c1daa33aff84bd",
+    "token_ascii": "BOZO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BOZO"
   }
 }
