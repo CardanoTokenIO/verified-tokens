@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "66c7dc30a1015b13fbc92bd5c4e800ef5052f144a227218fc081a76a434841524c4f": {
+    "token_id": "66c7dc30a1015b13fbc92bd5c4e800ef5052f144a227218fc081a76a434841524c4f",
+    "token_policy": "66c7dc30a1015b13fbc92bd5c4e800ef5052f144a227218fc081a76a",
+    "token_ascii": "CHARLO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CHARLO"
   }
 }
