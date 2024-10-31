@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "f3260af0df9d6fadf1637f99d869e2e8ad7127c9867613936488b489534e414c444f": {
+    "token_id": "f3260af0df9d6fadf1637f99d869e2e8ad7127c9867613936488b489534e414c444f",
+    "token_policy": "f3260af0df9d6fadf1637f99d869e2e8ad7127c9867613936488b489",
+    "token_ascii": "SNALDO",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "SNALDO"
   }
 }
