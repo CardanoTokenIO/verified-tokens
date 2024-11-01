@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "b725999645fcab3fb47c8a5ad0e08ddc1bdb66fcf2918de429fb6ec25045414e5554": {
+    "token_id": "b725999645fcab3fb47c8a5ad0e08ddc1bdb66fcf2918de429fb6ec25045414e5554",
+    "token_policy": "b725999645fcab3fb47c8a5ad0e08ddc1bdb66fcf2918de429fb6ec2",
+    "token_ascii": "PEANUT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "PEANUT"
   }
 }
