@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "b09bf8d77c5db88a5da77abcd4f9eaaf479a29ea7fc6dfc2ba8d992943554d44414c": {
+    "token_id": "b09bf8d77c5db88a5da77abcd4f9eaaf479a29ea7fc6dfc2ba8d992943554d44414c",
+    "token_policy": "b09bf8d77c5db88a5da77abcd4f9eaaf479a29ea7fc6dfc2ba8d9929",
+    "token_ascii": "CUMDAL",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "CUMDAL"
   }
 }
