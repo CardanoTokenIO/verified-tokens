@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "243618510711473628c3120f8e1d6d40fd90ec09c6206e56d89b98a859414441434f494e": {
+    "token_id": "243618510711473628c3120f8e1d6d40fd90ec09c6206e56d89b98a859414441434f494e",
+    "token_policy": "243618510711473628c3120f8e1d6d40fd90ec09c6206e56d89b98a8",
+    "token_ascii": "YADA COIN",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "YADA"
   }
 }
