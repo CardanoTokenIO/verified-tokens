@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "cf49a03cc71870d56e1d0bbccc5f62e3fdbc385c036e9e98c07e8323464154": {
+    "token_id": "cf49a03cc71870d56e1d0bbccc5f62e3fdbc385c036e9e98c07e8323464154",
+    "token_policy": "cf49a03cc71870d56e1d0bbccc5f62e3fdbc385c036e9e98c07e8323",
+    "token_ascii": "FAT",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "FATPANDA"
   }
 }
