@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "8c11ab60c3821011484478cb859274160fe0dc5492cb5df46656fe5353706f7274626574414441": {
+    "token_id": "8c11ab60c3821011484478cb859274160fe0dc5492cb5df46656fe5353706f7274626574414441",
+    "token_policy": "8c11ab60c3821011484478cb859274160fe0dc5492cb5df46656fe53",
+    "token_ascii": "SportbetADA",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "BETADA"
   }
 }
