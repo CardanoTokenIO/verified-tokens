@@ -3656,5 +3656,13 @@
     "is_verified": true,
     "decimals": "0",
     "ticker": "FIGHT"
+  },
+  "311395c316e35036f72c52d72b88204b0f9043ba94375839a6bcf4e754455445": {
+    "token_id": "311395c316e35036f72c52d72b88204b0f9043ba94375839a6bcf4e754455445",
+    "token_policy": "311395c316e35036f72c52d72b88204b0f9043ba94375839a6bcf4e7",
+    "token_ascii": "TETE",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "TETE"
   }
 }
